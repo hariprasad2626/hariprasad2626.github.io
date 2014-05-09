@@ -1,0 +1,28 @@
+
+
+a {text-decoration:none;
+        color:white;}
+a:hover {color:red;
+          text-decoration:underline;
+           font-weight:bold;}
+a:active {background-color:white;}                		
+table {position:absolute;
+       top:180px;
+       color:white;
+       }
+#head {position:absolute;
+         top:80px;
+		  left:2%;
+		 }
+body { 
+      background-image:url(bg.jpg);
+       background-repeat:repeat-x;
+       
+	   
+      }
+#ba {position:absolute;
+      top:220px;}	  
+	  
+
+
+
